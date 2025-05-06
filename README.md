@@ -1,3 +1,3 @@
 
 #Smart Loan Calculator
-hi this is my smart loan calculator
+hi this is my smart loan 
