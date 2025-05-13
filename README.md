@@ -1,5 +1,5 @@
 
 #Smart Loan Calculator
-hey
+
 
 
